@@ -1,10 +1,6 @@
 {
 	"cards": [
 		{
-			"description": "Advance to Go",
-			"script": "/scripts/advance-to-go.lua"
-		},
-		{
 			"description": "Bank error in your favor\\nCollect $200",
 			"script": "/scripts/bank-error.lua"
 		},
